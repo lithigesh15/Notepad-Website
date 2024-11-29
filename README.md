@@ -12,7 +12,7 @@ A web-based notepad application that enables users to easily create, view, and d
 
 ## Demo
 
-🚀 **Check Out the Live Demo:** [Click Here to Explore! 🌐](https://notepad-lithigesh.static.domains/)
+🚀 **Check Out the Live Demo:** [Click Here to Explore! 🌐](https://lithigesh15.github.io/Notepad-Website/)
 
 ## Features
 
